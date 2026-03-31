@@ -18,4 +18,4 @@ This project is a **Python-based sales analysis tool** that reads sales data fro
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/B-2025-dev/sales-analysis.git
+https://github.com/B-2025-dev/sales-analysis.git
