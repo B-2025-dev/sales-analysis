@@ -13,9 +13,4 @@ This project is a **Python-based sales analysis tool** that reads sales data fro
   - **Bar chart**: Total sales per product
 - Supports monthly sales analysis
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/B-2025-dev/sales-analysis.git
