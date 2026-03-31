@@ -13,10 +13,6 @@ This project is a **Python-based sales analysis tool** that reads sales data fro
   - **Bar chart**: Total sales per product
 - Supports monthly sales analysis
 
-## Sales Overview
 
-Here’s a chart showing total sales by product:
-
-![Sales Chart](images/sales_analysis Bar Graph.png)
 
 
