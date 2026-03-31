@@ -17,6 +17,6 @@ This project is a **Python-based sales analysis tool** that reads sales data fro
 
 Here’s a chart showing total sales by product:
 
-![Sales Chart](sales_analysis Bar Graph)
+![Sales Chart](images/sales_analysis Bar Graph.png)
 
 
